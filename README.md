@@ -1,10 +1,10 @@
-# ☕ Coffee Quality Analysis using Python
+# Coffee Quality Analysis using Python
 
 Explore the factors that influence global coffee quality using real-world cupping data from professional graders. This project focuses on uncovering insights through exploratory data analysis (EDA), visual storytelling, and statistical testing — all powered by Python.
 
 ---
 
-## 🔍 Project Overview
+## Project Overview
 
 This project analyzes a coffee quality dataset with over **1,300 samples and 44 attributes**, including:
 
@@ -17,7 +17,7 @@ The objective is to understand which variables contribute to higher coffee quali
 
 ---
 
-## ⚙️ Tech Stack
+##  Tech Stack
 
 | Tool       | Purpose                         |
 |------------|---------------------------------|
@@ -30,18 +30,18 @@ The objective is to understand which variables contribute to higher coffee quali
 
 ---
 
-## 📊 Key Features
+##  Key Features
 
-- ✅ Cleaned and preprocessed 44-column raw data
-- 📈 Univariate, bivariate, and multivariate EDA
-- 🔍 Correlation matrix & heatmap
-- 🧪 Hypothesis testing (T-Test and ANOVA)
-- 🌐 Country, species, and processing method insights
-- 📉 Time-based trends in cup scores
+-  Cleaned and preprocessed 44-column raw data
+-  Univariate, bivariate, and multivariate EDA
+-  Correlation matrix & heatmap
+-  Hypothesis testing (T-Test and ANOVA)
+-  Country, species, and processing method insights
+-  Time-based trends in cup scores
 
 ---
 
-## 📁 Folder Structure
+##  Folder Structure
 
 coffee-quality-analysis/
 ├── Coffee_Data.csv # Original dataset
@@ -54,7 +54,7 @@ coffee-quality-analysis/
 
 ---
 
-## 🧠 Sample Insights
+##  Sample Insights
 
 - **Arabica beans** dominate the dataset and outperform **Robusta** in quality.
 - **Washed/Wet** processing is the most widely adopted and preferred method.
@@ -66,7 +66,7 @@ coffee-quality-analysis/
 
 ---
 
-## 🧪 Hypothesis Testing Summary
+##  Hypothesis Testing Summary
 
 | Test                         | Purpose                                      | Result                            |
 |------------------------------|----------------------------------------------|-----------------------------------|
@@ -76,7 +76,7 @@ coffee-quality-analysis/
 
 ---
 
-## ✅ Conclusion
+##  Conclusion
 
 This project successfully explored global coffee quality using Python, analyzing key factors that influence cup scores such as:
 
@@ -86,7 +86,7 @@ This project successfully explored global coffee quality using Python, analyzing
 - Defect rates and their impact on total scores
 - Country of origin, harvest year, and altitude effects
 
-📌 **Key Takeaways:**
+ **Key Takeaways:**
 - **Arabica** consistently outperforms Robusta in both quality and popularity.
 - **Washed/Wet processing** is the most trusted method worldwide.
 - **Papua New Guinea, Ethiopia, and Japan** produce some of the highest-scoring coffees.
@@ -94,13 +94,13 @@ This project successfully explored global coffee quality using Python, analyzing
 - **Volume doesn’t always mean quality** — small farms often deliver excellent coffee.
 - **Coffee quality trends fluctuate over time**, with a noticeable peak in 2009.
 
-🔮 **Future Possibilities:**
+ **Future Possibilities:**
 - Predictive modeling (e.g., cup score prediction)
 - Farm-level performance tracking
 - Environmental factor analysis (e.g., rainfall, temperature, soil)
 - Real-time dashboards for producers and quality control teams
 
-This project demonstrates how data analysis can bring clarity and actionable insights to even the most aromatic industry: **coffee** ☕.
+This project demonstrates how data analysis can bring clarity and actionable insights to even the most aromatic industry: **coffee**.
 
 ---
 
