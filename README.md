@@ -70,9 +70,9 @@ coffee-quality-analysis/
 
 | Test                         | Purpose                                      | Result                            |
 |------------------------------|----------------------------------------------|-----------------------------------|
-| T-Test (Arabica vs Robusta) | Do species differ in quality?                | ✅ Arabica scores significantly higher |
-| ANOVA (Variety vs Defects)  | Do some varieties have more defects?         | ✅ Yes, some vary significantly     |
-| ANOVA (Country vs Cup Score)| Does country of origin affect quality?       | ✅ Strong influence confirmed       |
+| T-Test (Arabica vs Robusta) | Do species differ in quality?                |  Arabica scores significantly higher |
+| ANOVA (Variety vs Defects)  | Do some varieties have more defects?         |  Yes, some vary significantly     |
+| ANOVA (Country vs Cup Score)| Does country of origin affect quality?       |  Strong influence confirmed       |
 
 ---
 
